@@ -1,7 +1,9 @@
-🎵 Keido – Music Streaming Platform
+**🎵 Keido – Music Streaming Platform**
+
 Keido is a full-stack music streaming platform offering high-quality audio, seamless playback, and an interactive user experience. Built for scalability and ease of use, Keido supports real-time streaming, playlist management, and secure Google authentication.
 
-🚀 Features
+**🚀 Features**
+
 🔐 Google Sign-In for easy, secure access
 
 🎧 Real-Time Audio Streaming with play, pause, skip, and rewind
@@ -14,11 +16,14 @@ Keido is a full-stack music streaming platform offering high-quality audio, seam
 
 🎵 Synchronized Lyrics and support for music videos (future scope)
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
+
 Frontend: React.js, Context API, react-h5-audio-player
+
 Backend: Node.js, Express.js, MongoDB (Mongoose), Firebase Auth
 
-💎 Highlights
+**💎 Highlights**
+
 Responsive UI for web and mobile
 
 Minimal buffering with smooth playback
